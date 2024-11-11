@@ -307,20 +307,7 @@ ul {
     margin-bottom: 20px;
 }
 
-/*CAROUSSEL*/
 
-#recommendations h2{
-    color: #d82c2e;
-}
-
-#myCaroussel .carousel-item{
-    padding: 30px 30px 90px;
-}
-
-#myCaroussel .carousel-item h3{
-    color: #d82c2e;
-    font-style: italic;
-}
 
 /*FOOTER*/
 
